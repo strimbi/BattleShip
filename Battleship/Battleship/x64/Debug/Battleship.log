@@ -1,4 +1,0 @@
-﻿  Main.cpp
-C:\Users\User\source\repos\Battleship\Battleship\Main.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\User\source\repos\Battleship\Battleship\Main.cpp(21,10): warning C4101: 'prompt': unreferenced local variable
-  Battleship.vcxproj -> C:\Users\User\source\repos\Battleship\x64\Debug\Battleship.exe
